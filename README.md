@@ -9,6 +9,8 @@ The design consists of five main parts,
 3) A lower housing which has the pump
 4) A rear panel to hold the wiring
 5) A set of two gaskets to seal the parts
+   
+![image](https://github.com/bigcrimping/finger_washer/assets/74270551/c93d1dad-e9d6-44be-96de-7a9d3f3f817e)
 
 
 ## Wiring
